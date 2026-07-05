@@ -1,0 +1,19 @@
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Build folders
+build/
+out/
+dist/
+
+# NetBeans private files
+nbproject/private/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
